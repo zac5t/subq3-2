@@ -1,0 +1,98 @@
+{
+    "data": {
+      "councillors": {
+        "nodes": [
+          {
+            "id": "12hAtDZJGt4of3m2GqZcUCVAjZPALfvPwvtUTFZPQUbdX1Ud",
+            "numberOfVotes": 5,
+            "voteHistory": {
+              "totalCount": 5,
+              "nodes": [
+                {
+                  "approvedVote": true
+                },
+                {
+                  "approvedVote": true
+                },
+                {
+                  "approvedVote": true
+                }
+              ]
+            }
+          },
+          {
+            "id": "14ShUZUYUR35RBZW6uVVt1zXDxmSQddkeDdXf1JkMA6P721N",
+            "numberOfVotes": 5,
+            "voteHistory": {
+              "totalCount": 5,
+              "nodes": [
+                {
+                  "approvedVote": true
+                },
+                {
+                  "approvedVote": true
+                },
+                {
+                  "approvedVote": true
+                }
+              ]
+            }
+          },
+          {
+            "id": "1363HWTPzDrzAQ6ChFiMU6mP4b6jmQid2ae55JQcKtZnpLGv",
+            "numberOfVotes": 4,
+            "voteHistory": {
+              "totalCount": 4,
+              "nodes": [
+                {
+                  "approvedVote": true
+                },
+                {
+                  "approvedVote": true
+                },
+                {
+                  "approvedVote": true
+                }
+              ]
+            }
+          },
+          {
+            "id": "12NLgzqfhuJkc9mZ5XUTTG85N8yhhzfptwqF1xVhtK3ZX7f6",
+            "numberOfVotes": 3,
+            "voteHistory": {
+              "totalCount": 3,
+              "nodes": [
+                {
+                  "approvedVote": true
+                },
+                {
+                  "approvedVote": true
+                },
+                {
+                  "approvedVote": false
+                }
+              ]
+            }
+          },
+          {
+            "id": "12Y8b4C9ar162cBgycxYgxxHG7cLVs8gre9Y5xeMjW3izqer",
+            "numberOfVotes": 3,
+            "voteHistory": {
+              "totalCount": 3,
+              "nodes": [
+                {
+                  "approvedVote": true
+                },
+                {
+                  "approvedVote": false
+                },
+                {
+                  "approvedVote": true
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
